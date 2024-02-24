@@ -32,7 +32,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn good things from other friends
 
 ### Social life
-- you shouod know the value of social life
+- you should know the value of social life
 - Social life helps you to know the value of relationships 
 trust, value of life
 - Please engage with people everyday
