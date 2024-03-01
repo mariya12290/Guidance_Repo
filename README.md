@@ -61,6 +61,7 @@ trust, value of life
 - Music class, dance class, drawing
 - Swimming
 - cricket/badmiton/running
+- Learn/teach your kids the Hindu Mantras, for an example like this one https://open.spotify.com/playlist/4DrHUz8VRzlKlLG5qut0Cz?si=e3b6e904dd6a4e9d
 ### Patience
 - Please teach your kids to have a patience in their life through yoga, meditation, sports
 - Patience helps kids/anyone to think logically during difficults times and help to take proper decisions
