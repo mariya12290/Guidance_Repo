@@ -12,6 +12,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 ###### Please do share this web page with anyone, it is my request for all, anybody can benefit from all this informations.
 ###### I will update this web page whenever I have new information/missing content is found.
 ## Life
+- Life is not too short, You will have until 60/70 years.
 - Always learn from other people
 - Always learn from your mistakes
 - First know the world and how it works
@@ -39,6 +40,8 @@ trust, value of life
 
 ### Chain of effects in life
 - will be added with diagram
+
+### Discipline
 - 
 ### Education
 - Please do not expect your kids to be a topper
