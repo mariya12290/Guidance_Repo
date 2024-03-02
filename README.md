@@ -25,6 +25,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - One should know how to drive Bike/Car
 - Learn to speak slowly
 - Do not get into any business/things without having a basic knowlegde
+- Mnd your business in life
 ### Family
 - Family is everything in life such as parents, sisters, brothers
 
@@ -44,7 +45,12 @@ trust, value of life
 ### Discipline
 - 
 ### Personality
-- 
+
+### Minimalistic
+- The meaning of minimalistic is to having only needed things in life
+- Minimalistic says that "One should buy only needed/essential things in life"
+- An example for minimalistic is to having a car worth of 10 Lakhs for your use and for your family. Minimalistic does not say to buy a car worth of 1 Crore for your family use, when you are earning a 10 lakhs per year.
+
 ### Education
 - Please do not expect your kids to be a topper
 - Please always focus that your kids should have basic education such as Bachelor degreee to get a Job/ be eligible for government exams
@@ -67,6 +73,8 @@ trust, value of life
 - Swimming
 - cricket/badmiton/running
 - Learn/teach your kids the Hindu Mantras, for an example like this one https://open.spotify.com/playlist/4DrHUz8VRzlKlLG5qut0Cz?si=e3b6e904dd6a4e9d
+- Allow/Teach kids to think about their actions/thoughts everyday for one hour
+- Kids should sleep enough for at-least 8-9 hours per day on weekdays, on weekends/holidays in the afternoon as well.
 ### Patience
 - Please teach your kids to have a patience in their life through yoga, meditation, sports
 - Patience helps kids/anyone to think logically during difficults times and help to take proper decisions
@@ -259,6 +267,14 @@ trust, value of life
 - World problems are not your problems, keep in mind
 - Your problems are only your problems, keep in mind
 
-  ### Networking
-  - Please be connected with likely minded people everyday always
-  - Networking gives you more knowledge than anything
+### Networking
+- Please be connected with likely minded people everyday always
+- Networking gives you more knowledge than anything
+
+### Mood swing
+- There is a great pro-verb in English. "Your mood is depending on Weather"
+- Nowadays, your mood is also depending on the people you live/work.
+- One should know how to control mood swing in life
+### Addictions
+- Control your emotions so that you will not be addicted to anything such as Smoking/drinking/other things
+- If you feel that you are addicted/being addicted to anything, start doing activites to get rid of addictions
