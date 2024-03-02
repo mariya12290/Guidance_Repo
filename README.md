@@ -43,6 +43,8 @@ trust, value of life
 
 ### Discipline
 - 
+### Personality
+- 
 ### Education
 - Please do not expect your kids to be a topper
 - Please always focus that your kids should have basic education such as Bachelor degreee to get a Job/ be eligible for government exams
