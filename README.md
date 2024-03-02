@@ -26,6 +26,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Learn to speak slowly
 - Do not get into any business/things without having a basic knowlegde
 - Mnd your business in life
+- One should learn about how to be selective in life
 ### Family
 - Family is everything in life such as parents, sisters, brothers
 
