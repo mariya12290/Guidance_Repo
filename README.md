@@ -68,6 +68,7 @@ trust, value of life
 - Learn what is inflation?
 - How money works
 - What is economy?
+- One should know the different between business, friendship without money, relationship without money, relative without money
 - Use application to track your spending and earnings https://goodbudget.com/ for free
 ### Other activities for your kids
 - Music class, dance class, drawing
