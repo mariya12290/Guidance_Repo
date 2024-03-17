@@ -279,7 +279,7 @@ trust, value of life
 ### Mood swing
 - There is a great pro-verb in English. "Your mood is depending on Weather"
 - Nowadays, your mood is also depending on the people you live/work.
-- One should know how to control mood swing in life
+- One should know how to control mood swing in life using Music, Meditation, and doing other activities.
 ### Addictions
 - Control your emotions so that you will not be addicted to anything such as Smoking/drinking/other things
 - If you feel that you are addicted/being addicted to anything, start doing activites to get rid of addictions
