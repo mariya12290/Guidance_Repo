@@ -291,3 +291,7 @@ trust, value of life
 
 ### Do It Youself(DIY)
 - One should know/learn how to do your works by yourself, at-least simple things
+
+### Thoughts and problems
+- Write down your thoughts on a paper, which gives you more control about your thoughts.
+- Write down your problems on a paper, which gives you a more felxibility to solutions
