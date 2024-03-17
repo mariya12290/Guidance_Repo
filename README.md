@@ -18,6 +18,8 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - First know the world and how it works
 - One should learn multiple languages such as Hindi/English in life, Use youtube to learn languages
 - Learn English here on youtube [https://www.youtube.com/@engvidRebecca]
+- Listen to podcasts(Just listen whenever you get time to different podcast) on spotify to improve your English listening here https://open.spotify.com/show/7ixeOS7ezPTZSaISIx2TTw
+- Read Quora Answers(Just read different answers whenever you get time) to improve English reading here https://www.quora.com/How-can-I-improve-my-English-reading-skills
 - Learn Hindi here [https://www.youtube.com/@hindipod101/videos]
 - One should know how to use mobile phones and different applications
 - One should know how to use laptop
@@ -280,3 +282,8 @@ trust, value of life
 ### Addictions
 - Control your emotions so that you will not be addicted to anything such as Smoking/drinking/other things
 - If you feel that you are addicted/being addicted to anything, start doing activites to get rid of addictions
+
+### Buying things
+- You should know the use case of each item, which you need to buy and actual cost of it
+- Before buying anything, please check whether the price make sense or not,
+- Before buying look into different websites/shops to compare prices
