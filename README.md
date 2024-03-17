@@ -29,6 +29,7 @@ A simple repo for providing guidances for all the kids, adults and parents in In
 - Do not get into any business/things without having a basic knowlegde
 - Mnd your business in life
 - One should learn about how to be selective in life
+- Know the consequences of your actions in your life always
 ### Family
 - Family is everything in life such as parents, sisters, brothers
 
@@ -48,7 +49,7 @@ trust, value of life
 ### Discipline
 - 
 ### Personality
-
+- 
 ### Minimalistic
 - The meaning of minimalistic is to having only needed things in life
 - Minimalistic says that "One should buy only needed/essential things in life"
@@ -72,7 +73,7 @@ trust, value of life
 - What is economy?
 - One should know the different between business, friendship without money, relationship without money, relative without money
 - Use application to track your spending and earnings https://goodbudget.com/ for free
-### Other activities for your kids
+### Other activities for your kids/adults
 - Music class, dance class, drawing
 - Swimming
 - cricket/badmiton/running
@@ -255,7 +256,7 @@ trust, value of life
 - You should know your responsibilites in your life first such as financial, home and parents
 - Take care of your finance for your future and your family future
   
-### Pwer of Music
+### Power of Music
 - Know the power of music while studying/Working/bored/depressed/alone/loneleness
 - Read below web page to know more about power of music
 - https://medium.com/@bhagat_16083/the-power-of-music-and-its-impact-on-society-522cdf55c456#:~:text=Listening%20to%20the%20popular%20playing,even%20help%20them%20through%20depression.
