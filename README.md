@@ -288,3 +288,6 @@ trust, value of life
 - You should know the use case of each item, which you need to buy and actual cost of it
 - Before buying anything, please check whether the price make sense or not,
 - Before buying look into different websites/shops to compare prices
+
+### Do It Youself(DIY)
+- One should know/learn how to do your works by yourself, at-least simple things
